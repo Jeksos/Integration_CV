@@ -55,4 +55,17 @@ footer a:not(.nav-link) {
     margin-bottom: -80px;
     margin-left: 0; } }
     
- 
+ footer {
+background-color:#4A89DC;
+padding: 20px;
+}
+
+footer::before, footer::after {
+content: "";
+display: block;
+width: 10px;
+height: 10px;
+background-color: #4A89DC;
+margin: 0 5px;
+float: left;
+}
