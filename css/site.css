@@ -43,7 +43,9 @@ footer a:not(.nav-link) {
   color: inherit;
   border-bottom: 1px dashed;
   text-decoration: none;
-  cursor: pointer; color: rgba(0, 0, 0, 0.8); }
+  cursor: pointer; 
+   {
+  color: rgba(0, 0, 0, 0.8); } }
 
 @media (min-width: 48em) {
   .site-title {
@@ -52,5 +54,6 @@ footer a:not(.nav-link) {
     float: right; }
   .avatar {
     margin-bottom: -80px;
-    margin-left: 0; }
- color: rgba(0, 0, 0, 0.8);}
+    margin-left: 0; } }
+    
+ 
