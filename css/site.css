@@ -40,7 +40,6 @@ html {
   filter: grayscale(100%); }
 
 footer a:not(.nav-link) {
-  background-color:#4A89DC;
   color: inherit;
   border-bottom: 1px dashed;
   text-decoration: none;
