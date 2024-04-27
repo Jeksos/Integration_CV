@@ -44,8 +44,7 @@ footer a:not(.nav-link) {
   border-bottom: 1px dashed;
   text-decoration: none;
   cursor: pointer; 
-   {
-  color: rgba(0, 0, 0, 0.8); } }
+ }
 
 @media (min-width: 48em) {
   .site-title {
