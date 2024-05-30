@@ -39,6 +39,21 @@ html {
   /* Safari 6.0 - 9.0 */
   filter: grayscale(100%); }
 
+
+/* Ajoutez ces styles à votre feuille de style CSS */
+.lola img {
+    border-radius: 50%; /* Rend l'image ronde */
+    transition: border-radius 0.3s ease; /* Ajoute une transition fluide */
+}
+
+.lola:hover img {
+    border-radius: 0; /* Lorsque la souris passe sur l'image, la bordure devient ronde */
+}
+
+
+
+
+
 footer a:not(.nav-link) {
   color: inherit;
   border-bottom: 1px dashed;
