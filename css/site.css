@@ -39,10 +39,6 @@ html {
   /* Safari 6.0 - 9.0 */
   filter: grayscale(100%); }
 
-img:hover {
-    border-radius: 50%; /* La bordure devient ronde au survol */
-}
-
 footer a:not(.nav-link) {
   color: inherit;
   border-bottom: 1px dashed;
