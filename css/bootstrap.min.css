@@ -2376,6 +2376,5 @@ textarea.form-control-lg{min-height:calc(1.5em + 1rem + 4px)}
 hr{border-color:#e6e9ed}
 .text-small{font-size:.875rem}
 .hover-effect{transition:transform .18s ease-in-out}
-.hover-effect:hover{transform:translateY(-2px); border-radius: 50%; /* La bordure devient ronde au survol */}
 
 /*# sourceMappingURL=bootstrap.min.css.map */
